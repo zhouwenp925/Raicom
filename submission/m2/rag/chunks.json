@@ -1,0 +1,30 @@
+[
+  {
+    "text": "借阅卡遗失后，可以到图书馆服务台申请补办。补办时需要携带学生证和一张近期证件照片。",
+    "source": "docs/borrow_demo.md"
+  },
+  {
+    "text": "普通图书借阅期限为30天。如需续借，请在到期前办理续借手续。",
+    "source": "docs/borrow_demo.md"
+  },
+  {
+    "text": "借阅卡不得转借他人。发现借阅卡遗失后，应及时办理挂失。",
+    "source": "docs/borrow_demo.md"
+  },
+  {
+    "text": "图书馆阅览区开放时间为每天8:00至22:00。",
+    "source": "docs/opening_demo.md"
+  },
+  {
+    "text": "节假日开放时间以图书馆发布的通知为准。",
+    "source": "docs/opening_demo.md"
+  },
+  {
+    "text": "电子资源可通过图书馆网站的“电子资源”栏目访问。",
+    "source": "docs/resource_demo.md"
+  },
+  {
+    "text": "校外访问电子资源需要先登录学校统一身份认证系统。",
+    "source": "docs/resource_demo.md"
+  }
+]

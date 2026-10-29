@@ -1,0 +1,14 @@
+{"tool": "shelf_query", "args": {"room": "R305"}, "result": {"room": "R305", "status": "模拟：电脑网络连接异常"}}
+{"tool": "shelf_query", "args": {"room": "R305"}, "result": {"room": "R305", "status": "模拟：电脑网络连接异常"}}
+{"tool": "shelf_query", "args": {"room": "R305"}, "result": {"room": "R305", "status": "模拟：电脑网络连接异常"}}
+{"tool": "shelf_query", "args": {"room": "R305"}, "result": {"room": "R305", "status": "模拟：电脑网络连接异常"}}
+{"tool": "log_query", "args": {"service": "rfid"}, "result": {"serive": "rfid", "log": "模拟：出现设备通信超时记录。"}}
+{"tool": "shelf_query", "args": {"room": "R305"}, "result": {"room": "R305", "status": "模拟：电脑网络连接异常"}}
+{"tool": "log_query", "args": {"service": "rfid"}, "result": {"serive": "rfid", "log": "模拟：出现设备通信超时记录。"}}
+{"tool": "resource_query", "args": {"db": "cnki"}, "result": {"db": "cnki", "concurrent": 128, "limit": 120, "status": "已满"}}
+{"tool": "resource_query", "args": {"db": "wanfang"}, "result": {"db": "wanfang", "concurrent": 128, "limit": 120, "status": "已满"}}
+{"tool": "resource_query", "args": {"db": "cnki"}, "result": {"db": "cnki", "concurrent": 128, "limit": 120, "status": "已满"}}
+{"tool": "shelf_query", "args": {"room": "R305"}, "result": {"room": "R305", "status": "模拟：电脑网络连接异常"}}
+{"tool": "log_query", "args": {"service": "rfid"}, "result": {"service": "rfid", "log": "模拟：出现设备通信超时记录。"}}
+{"tool": "kb_query", "args": {"q": "借阅卡补办需要什么材料？"}, "result": {"q": "借阅卡补办需要什么材料？", "result": "模拟：补办借阅卡需要携带学生证和一张近期证件照片。"}}
+{"tool": "resource_query", "args": {"db": "cnki"}, "result": {"db": "cnki", "concurrent": 128, "limit": 120, "status": "已满"}}

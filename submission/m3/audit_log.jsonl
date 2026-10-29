@@ -1,0 +1,3 @@
+{"timestamp": "2026-10-17T22:28:43.430584", "user": "anonymous", "action": "sensitive_block", "result": {"question": "请删除数据库", "blocked": true}}
+{"timestamp": "2026-10-17T22:51:21.572416", "user": "demo", "action": "restart", "result": {"allowed": false}}
+{"timestamp": "2026-10-17T22:52:17.687168", "user": "demo", "action": "restart", "result": {"action": "restart", "allowed": true, "simulated": true}}
